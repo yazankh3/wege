@@ -1,0 +1,123 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Premium Wireless Headphones",
+      "price": 299.99,
+      "description": "High-quality wireless headphones with noise cancellation and premium sound quality. Perfect for music lovers and professionals.",
+      "image": "/diverse-clothing-rack.png?height=300&width=300",
+      "category": "Electronics",
+      "rating": 4.8,
+      "reviews": 156,
+      "inStock": true,
+      "images": [
+        "/diverse-clothing-rack.png?height=300&width=300",
+        "/diverse-products-still-life.png?height=300&width=300",
+        "/placeholder.svg?height=300&width=300"
+      ],
+      "features": [
+        "Noise Cancellation",
+        "30h Battery",
+        "Wireless",
+        "Premium Sound"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Smart Fitness Watch",
+      "price": 199.99,
+      "description": "Advanced fitness tracking watch with heart rate monitoring, GPS, and smart notifications.",
+      "image": "/diverse-products-still-life?height=300&width=300",
+      "category": "Wearables",
+      "rating": 4.6,
+      "reviews": 89,
+      "inStock": true,
+      "images": [
+        "/diverse-clothing-rack.png?height=300&width=300",
+        "/diverse-products-still-life.png?height=300&width=300",
+        "/placeholder.svg?height=300&width=300"
+      ],
+      "features": [
+        "Heart Rate Monitor",
+        "GPS",
+        "Water Resistant",
+        "Smart Notifications"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Organic Coffee Beans",
+      "price": 24.99,
+      "description": "Premium organic coffee beans sourced from sustainable farms. Rich flavor and aroma.",
+      "image": "/diverse-clothing-rack.png?height=300&width=300",
+      "category": "Food & Beverage",
+      "rating": 4.9,
+      "reviews": 234,
+      "inStock": true,
+      "images": [
+        "/diverse-clothing-rack.png?height=300&width=300",
+        "/diverse-products-still-life.png?height=300&width=300",
+        "/placeholder.svg?height=300&width=300"
+      ],
+      "features": ["Organic", "Fair Trade", "Single Origin", "Fresh Roasted"]
+    },
+    {
+      "id": 4,
+      "name": "Minimalist Desk Lamp",
+      "price": 89.99,
+      "description": "Modern LED desk lamp with adjustable brightness and color temperature. Perfect for any workspace.",
+      "image": "/electronics-components.png?height=300&width=300",
+      "category": "Home & Office",
+      "rating": 4.7,
+      "reviews": 67,
+      "inStock": false,
+      "images": [
+        "/diverse-clothing-rack.png?height=300&width=300",
+        "/diverse-products-still-life.png?height=300&width=300",
+        "/placeholder.svg?height=300&width=300"
+      ],
+      "features": ["LED", "Adjustable", "Touch Control", "Energy Efficient"]
+    },
+    {
+      "id": 5,
+      "name": "Eco-Friendly Water Bottle",
+      "price": 34.99,
+      "description": "Sustainable stainless steel water bottle that keeps drinks cold for 24h and hot for 12h.",
+      "image": "/placeholder.svg?height=300&width=300",
+      "category": "Lifestyle",
+      "rating": 4.5,
+      "reviews": 123,
+      "inStock": true,
+      "images": [
+        "/diverse-clothing-rack.png?height=300&width=300",
+        "/diverse-products-still-life.png?height=300&width=300",
+        "/placeholder.svg?height=300&width=300"
+      ],
+      "features": ["Stainless Steel", "Insulated", "BPA Free", "Leak Proof"]
+    },
+    {
+      "id": 6,
+      "name": "Wireless Charging Pad",
+      "price": 49.99,
+      "description": "Fast wireless charging pad compatible with all Qi-enabled devices. Sleek and efficient.",
+      "image": "/diverse-clothing-rack.png?height=300&width=300",
+      "category": "Electronics",
+      "rating": 4.4,
+      "reviews": 91,
+      "inStock": true,
+      "images": [
+        "/diverse-clothing-rack.png?height=300&width=300",
+        "/diverse-products-still-life.png?height=300&width=300",
+        "/placeholder.svg?height=300&width=300"
+      ],
+      "features": [
+        "Fast Charging",
+        "Qi Compatible",
+        "LED Indicator",
+        "Non-Slip Base"
+      ]
+    }
+  ],
+  "cart": [],
+  "favourites": []
+}
